@@ -1,6 +1,6 @@
 # MNIST Classification Project
 
-The Following repository contains the code for the MNIST Dataset Classification Problem. The repo is made of Jupyter Notebooks and Python Code aiming for the same thing - MNIST classification problem.
+The Following repository contains the code for the MNIST Dataset Classification Problem. The repostiory is made of Jupyter Notebooks and Python Code aiming for the same thing - MNIST classification problem.
 
 The MNIST dataset is a hand labelled dataset consisitng of images of handwrtiten digits written by high school students and employees of the United states Census Bureau. The dataset consists of images of digits ranging from 0 to 9. 
 
@@ -17,3 +17,7 @@ Parameters/Set | Training Set | Test Set
 --- | --- | --- 
 Loss | 0.24324145913124084 | 0.9473000168800354
 Accuracy | 0.16881218552589417 | 0.9567333459854126
+
+APIs Written in Backend:
+1. DNN &#8594; Finished
+2. CNN &#8594; Under Work
