@@ -13,6 +13,8 @@ The Accuracies achieved in the codes are as follows. (The report can be found in
 ### DNN 
 - 5 Epochs
 - 1 Hidden Layer - 200 Neurons
+
+
 Parameters/Set | Loss | Accuracy
 --- | --- | --- 
 Training Set | 0.16881218552589417 | 0.9567333459854126
@@ -21,6 +23,8 @@ Test Set | 0.24324145913124084 | 0.9473000168800354
 ### CNN
 - 5 Epochs
 - 3 Hidden Layers - (32, 64, 1024 respectively)
+
+
 Parameters/Set | Loss | Accuracy
 --- | --- | --- 
 Training Set | 0.056159235537052155 | 0.9822666645050049
